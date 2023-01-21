@@ -18,4 +18,11 @@ let allMusic = [
     src: "music-3"
   },
 
+  {
+    name: "Nhạc Tết",
+    artist: "Đinh Quý Dương",
+    img: "abc",
+    src: "abc"
+  },
+
 ];
